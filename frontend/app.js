@@ -38,7 +38,7 @@ app.post("/submit", async (req, res) => {
   try {
     // Send POST request to Flask backend
     const response = await axios.post(
-      "http://localhost:5001/submit",
+      "http://backend:5001/submit",
       {
         data: formData, // JSON payload
       },
