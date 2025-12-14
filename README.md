@@ -1,4 +1,4 @@
-# Flask + Node.js Form Submission App
+# Flask + Node.js Form Submission App for Docker Practice
 
 This project demonstrates frontend–backend communication using Node.js (Express) as the frontend server and Flask (Python) as the backend API.
 
